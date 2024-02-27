@@ -2,7 +2,7 @@ baseURL = 'https://AndyLeeGT.github.io/'
 # Language used
 languageCode = "en-us"
 # Website title
-title = "andy lee blog"
+title = "andy lee blog testing"
 # Theme used
 theme = "hugo-astatine-theme"
 
