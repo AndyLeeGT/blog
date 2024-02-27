@@ -1,8 +1,8 @@
 +++
 date = "2018-03-09"
-title = "The beach is a push"
+title = "The beach is a push testing"
 slug = "the-beach-is-a-push"
-categories = [ "Post", "Metaphorsum" ]
+categories = [ "Post"]
 tags = [ "Riddles", "Beach", "Nothing", "Interest" , "Verbatim", "Math"]
 katex = true
 +++
