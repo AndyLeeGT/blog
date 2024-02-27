@@ -1,0 +1,4 @@
+[submodule "andyleeblog/public"]
+	path = andyleeblog/public
+	url = https://github.com/AndyLeeGT/AndyLeeGT.github.io.git
+	branch = main
