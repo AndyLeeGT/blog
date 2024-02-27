@@ -1,5 +1,5 @@
 +++
-title = "About Me"
+title = "About Myself"
 hideAuthor = true
 hideDate = true
 hideLastMod = true

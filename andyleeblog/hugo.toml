@@ -34,7 +34,7 @@ paginate = 10
 
 # This links to the page about.md
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
     weight = -110
 
