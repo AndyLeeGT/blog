@@ -41,7 +41,7 @@ publications:
     links:
       -
         name: Main URL
-        url: "https://www.nature.com/articles/ncomms2819"
+        url: "https://andyleegt.github.io/post/"
 
 # ===================================== OPTIONAL FIELD =======================================
 # email: email Here
