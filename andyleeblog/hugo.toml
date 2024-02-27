@@ -34,8 +34,8 @@ paginate = 10
 
 # This links to the page about.md
 [[menu.main]]
-    name = "About Me"
-    url = "/about/"
+    name = "About"
+    url = "/aboutMe/"
     weight = -110
 
 # Make the tags and categories pages accessible directly from the navbar.
