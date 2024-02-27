@@ -95,7 +95,6 @@ publications:
 ---
 
 # Bio
-
 Hello visitors, I'm Andy Lee, residing in the Georgia Metropolitan area.
 
 My IT journey began at the Georgia Institute of Technology (Georgia Tech) experiences, where I cultivated my passion for technology. 
