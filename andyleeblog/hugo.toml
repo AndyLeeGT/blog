@@ -11,8 +11,8 @@ rssLimit = 10
 paginate = 10
 
 # Code highlighting
-# pygmentsCodefences = true
-# pygmentsStyle = "native"
+ pygmentsCodefences = true
+ pygmentsStyle = "native"
 
 # Taxonomies (only tags and categories are supported out of the box but you can
 # add more)
@@ -34,7 +34,7 @@ paginate = 10
 
 # This links to the page about.md
 [[menu.main]]
-    name = "About"
+    name = "About Me"
     url = "/about/"
     weight = -110
 
@@ -53,13 +53,12 @@ paginate = 10
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
-    description = """The homepage of Astatine. This website is a demo the of the \
-    Hugo theme Astatine."""
+    description = """The homepage of Andy Lee IT blog."""
     # Author of the site
     authorName = "Andy Lee"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "img/main.jpg"
+        name = "img/georgia.jpg"
         # Add an alt description for the image
         alt = "Profile picture"
 
