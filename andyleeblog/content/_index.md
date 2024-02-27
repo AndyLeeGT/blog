@@ -101,6 +101,6 @@ Hello visitors, I'm Andy Lee, residing in the Georgia Metropolitan area.
 My IT journey began at the Georgia Institute of Technology (Georgia Tech) experiences, where I cultivated my passion for technology. 
 
 During my student period at Georgia Tech, I gained invaluable experience in Information Technology by serving as a Cyber Security Analyst for six months,
-where I focused on safeguarding digital assets and mitigating cyber threats Currently, 
+where I focused on safeguarding digital assets and mitigating cyber threats 
 
-I'm spending time studying networking and security concepts to improve my understanding of information technology. I am dedicated to ongoing learning of IT concepts, aiming to make meaningful contributions to the dynamic and ever-evolving information Technology industry.
+Currently, I'm spending time studying networking and security concepts to improve my understanding of information technology. I am dedicated to ongoing learning of IT concepts, aiming to make meaningful contributions to the dynamic and ever-evolving information Technology industry.
