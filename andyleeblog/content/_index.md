@@ -94,12 +94,25 @@ publications:
 
 ---
 
-# Bio
-Hello visitors, I'm Andy Lee, residing in the Georgia Metropolitan area.
+# Welcome!
+Hello! I'm Andy Lee, the mind behind Andy's Blog. Here, I blend my passions with the written word, sharing bits of life, insights, and adventures in Information Technology. 
+My journey has been a mix of professional endeavors as a SOC Analyst and personal explorations in HomeLab.
 
-My IT journey began at the Georgia Institute of Technology (Georgia Tech) experiences, where I cultivated my passion for technology. 
+This blog is my digital canvas for expressing thoughts on new Information Technology skills, peppered with stories and lessons learned along the way. 
+It's a space for connection, inspiration, and sharing new information through the internet.
 
-During my student period at Georgia Tech, I gained invaluable experience in Information Technology by serving as a Cyber Security Analyst for six months,
-where I focused on safeguarding digital assets and mitigating cyber threats 
+Outside of blogging, I usually enjoy swimming or dreaming up my next adventure. 
+This blog is an invitation into my world, hoping to inspire and connect with fellow dreamers and doers.
 
-Currently, I'm spending time studying networking and security concepts to improve my understanding of information technology. I am dedicated to ongoing learning of IT concepts, aiming to make meaningful contributions to the dynamic and ever-evolving information Technology industry.
+Thanks for dropping by. Let's journey together!
+
+Curious to know more about me? Please click on the "About Me" tab. 
+> https://andyleegt.github.io/about/
+
+Alternatively, if you're eager to dive into my blog posts, the "Posts" tab awaits your exploration. 
+> https://andyleegt.github.io/post/
+
+
+
+
+`Thank you for visiting!`
