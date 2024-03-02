@@ -93,8 +93,10 @@ publications:
 #     description: The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.
 
 ---
-
+{{< center>}}
 # Welcome!
+{{< /center >}}
+
 Hello! I'm Andy Lee, the mind behind Andy's Blog. Here, I blend my passions with the written word, sharing bits of life, insights, and adventures in Information Technology. 
 My journey has been a mix of professional endeavors as a SOC Analyst and personal explorations in HomeLab.
 
@@ -115,4 +117,4 @@ Alternatively, if you're eager to dive into my blog posts, the "Posts" tab await
 
 
 
-`Thank you for visiting!`
+**Thank you for visiting!**
